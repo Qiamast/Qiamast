@@ -7,7 +7,7 @@ name: Review
 
 jobs:
   update_guestbook:
-    name: Update guestbook
+    name: Update reviews
     if: ${{ github.event.issue.title == 'Review' }}
     runs-on: ubuntu-latest
 
