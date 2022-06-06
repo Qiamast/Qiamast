@@ -10,9 +10,12 @@
 ░╚═██╔═╝░██║██║░░██║██║░╚═╝░██║██║░░██║██████╔╝░░░██║░░░
 ░░░╚═╝░░░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═════╝░░░░╚═╝░░░
 
-#### 📬 Review's ([Add new review about me](https://github.com/Qiamast/Qiamast/issues/1#issuecomment-new))
 
- 
+#### 📬 Review's ([Add new review about me](https://github.com/Qiamast/Qiamast/issues/2#issuecomment-new))
+<!-- reviews -->
+<!-- /reviews -->
+
+
 
 <div style="align-items:center;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
