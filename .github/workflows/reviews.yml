@@ -50,9 +50,9 @@ jobs:
             const fileSystem = require('fs');
             const readme = fileSystem.readFileSync('README.md', 'utf8');
             fileSystem.writeFileSync('README.md', readme.replace(/(?<=<!-- reviews -->.*\n)[\S\s]*?(?=<!-- \/reviews -->|$(?![\n]))/gm, renderComments(result.repository.issue.comments.nodes)), 'utf8');
-      - name: Push guestbook update
+      - name: Push reviews update
         run: |
           git config --global user.name 'Github Actions'
           git config --global user.email '78082316+Qiamast@users.noreply.github.com'
-          git commit -am 'feat: update reviews'
+          git commit -am 'Update: Reviews'
           git push
