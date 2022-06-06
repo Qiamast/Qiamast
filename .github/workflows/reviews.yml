@@ -24,7 +24,7 @@ jobs:
                   comments(first:10,orderBy:{direction:DESC, field:UPDATED_AT}) {
                     nodes {
                       author {
-                        avatarUrl(size: 24)
+                        avatarUrl(size: 25)
                         login
                         url
                       }
@@ -54,5 +54,5 @@ jobs:
         run: |
           git config --global user.name 'Github Actions'
           git config --global user.email '78082316+Qiamast@users.noreply.github.com'
-          git commit -am 'Update: Reviews'
+          git commit -am 'Update: Add new reviews📬'
           git push
