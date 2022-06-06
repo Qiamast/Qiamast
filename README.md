@@ -11,7 +11,7 @@
 ░░░╚═╝░░░╚═╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═════╝░░░░╚═╝░░░
 
 
-#### 📬 Review's ([Add new review about me](https://github.com/Qiamast/Qiamast/issues/2#issuecomment-new))
+#### <img src="https://media.giphy.com/media/mRqMnL2Yp4Z9apds6Q/giphy.gif" width="40"> Reviews ( [Add new 📬](https://github.com/Qiamast/Qiamast/issues/2#issuecomment-new) )
 <!-- reviews -->
 | Name | Date | Message |
 |---|---|---|
