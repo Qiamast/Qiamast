@@ -24,7 +24,7 @@ jobs:
                   comments(first:10,orderBy:{direction:DESC, field:UPDATED_AT}) {
                     nodes {
                       author {
-                        avatarUrl(size: 25)
+                        avatarUrl(size: 24)
                         login
                         url
                       }
