@@ -29,11 +29,18 @@
 <!-- Badge -->
 <br />
 
-![GitHub watchers](https://img.shields.io/github/watchers/qiamast/qiamast?label=view&style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/qiamast/qiamast?label=Last%20Update&style=social)
+![Views](https://komarev.com/ghpvc/?username=qiamast)
+![Last Update](https://img.shields.io/github/last-commit/qiamast/qiamast?label=Last%20Update&style=social)
 
 <br />
 <!-- Badge -->
+
+### 🚀 Quick Stats
+<p align="center">
+<img width="450" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=Qiamast&show_icons=true&line_height=21&theme=react" alt="Qiamast's Github Stats" />
+<img width="340" height="155" align="center" 
+     src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Qiamast&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" />
+</p>
 
 <!-- footer -->
 <div style="align-items:center;">
