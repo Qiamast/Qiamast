@@ -14,10 +14,7 @@
 <!-- reviews -->
 | Name | Date | Message |
 |---|---|---|
-|[![Qiamast](https://avatars.githubusercontent.com/u/78082316?s=24&u=586842c6eab4222ca834c8beff18ebf31d597a16&v=4)<br />Qiamast](https://github.com/Qiamast)|6/9/2022, 5:46:09 AM|@Qiamast 🔥😎📬|
-|[![Qiamast](https://avatars.githubusercontent.com/u/78082316?s=24&u=586842c6eab4222ca834c8beff18ebf31d597a16&v=4)<br />Qiamast](https://github.com/Qiamast)|6/6/2022, 8:09:48 PM|can you add new review?|
 |[![Qiamast](https://avatars.githubusercontent.com/u/78082316?s=24&u=586842c6eab4222ca834c8beff18ebf31d597a16&v=4)<br />Qiamast](https://github.com/Qiamast)|6/6/2022, 6:48:41 PM|the last of last test :)|
-|[![Qiamast](https://avatars.githubusercontent.com/u/78082316?s=24&u=586842c6eab4222ca834c8beff18ebf31d597a16&v=4)<br />Qiamast](https://github.com/Qiamast)|6/6/2022, 5:42:29 PM|the last test, believe me👋|
 |[![BlackIQ](https://avatars.githubusercontent.com/u/55284339?s=24&u=19e73332cf90bf27cdc09acf49dfaa4b9babf6c9&v=4)<br />BlackIQ](https://github.com/BlackIQ)|6/6/2022, 8:45:56 AM|Comments with issues!<br />Nice :)|
 |[![Qiamast](https://avatars.githubusercontent.com/u/78082316?s=24&u=586842c6eab4222ca834c8beff18ebf31d597a16&v=4)<br />Qiamast](https://github.com/Qiamast)|6/6/2022, 8:32:32 AM|the last of us 🥇|
 |[![Qiamast](https://avatars.githubusercontent.com/u/78082316?s=24&u=586842c6eab4222ca834c8beff18ebf31d597a16&v=4)<br />Qiamast](https://github.com/Qiamast)|6/6/2022, 7:53:05 AM|a new test|
