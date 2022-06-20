@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="30">,I'm Mahdi
+### Hi there <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="30">,I'm Mahdi 
 
 
 
@@ -23,11 +23,12 @@
 
 ![Views](https://komarev.com/ghpvc/?username=qiamast)
 ![Last Update](https://img.shields.io/github/last-commit/qiamast/qiamast?label=Last%20Update&style=social)
+[<img src="https://media.giphy.com/media/hXPHgJXpg1TnQncuHW/giphy.gif" width="70">](https://github.com/qiamast/qiamast/issues/new)
 
 <br />
 <!-- Badge -->
 
-### 🚀 Quick Stats an :octocat:
+### 🚀 Quick Stats :octocat:
 <p align="center">
 <img width="450" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=Qiamast&show_icons=true&line_height=21&theme=react" alt="Qiamast's Github Stats" />
 <img width="340" height="155" align="center" 
@@ -35,6 +36,7 @@
     
   <br><p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=qiamast&theme=react-dark&bg_color=20232a&hide_border=true" width="60%"/></p>
 </p>
+
 
 <!-- footer -->
 <div style="align-items:center;">
