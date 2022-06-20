@@ -52,7 +52,7 @@ jobs:
             fileSystem.writeFileSync('README.md', readme.replace(/(?<=<!-- reviews -->.*\n)[\S\s]*?(?=<!-- \/reviews -->|$(?![\n]))/gm, renderComments(result.repository.issue.comments.nodes)), 'utf8');
       - name: Push reviews update
         run: |
-          git config --global user.name 'Github Actions'
-          git config --global user.email '78082316+Qiamast@users.noreply.github.com'
+          git config --global user.name 'Github-Actions-bot'
+          git config --global user.email '<>'
           git commit -am 'Update: Add new reviews📬'
           git push
