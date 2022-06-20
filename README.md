@@ -12,9 +12,8 @@
 
 #### <img src="https://media.giphy.com/media/mRqMnL2Yp4Z9apds6Q/giphy.gif" width="40"> Reviews ( [Add new 📬](https://github.com/Qiamast/Qiamast/issues/2#issuecomment-new) )
 <!-- reviews -->
-| Name | Date | Message |
+| Account | Timestamp | Message |
 |---|---|---|
-|[![Qiamast](https://avatars.githubusercontent.com/u/78082316?s=24&u=586842c6eab4222ca834c8beff18ebf31d597a16&v=4)<br />Qiamast](https://github.com/Qiamast)|6/20/2022, 5:32:48 AM|who merges the commit?|
 |[![Qiamast](https://avatars.githubusercontent.com/u/78082316?s=24&u=586842c6eab4222ca834c8beff18ebf31d597a16&v=4)<br />Qiamast](https://github.com/Qiamast)|6/6/2022, 6:48:41 PM|the last of last test :)|
 |[![BlackIQ](https://avatars.githubusercontent.com/u/55284339?s=24&u=19e73332cf90bf27cdc09acf49dfaa4b9babf6c9&v=4)<br />BlackIQ](https://github.com/BlackIQ)|6/6/2022, 8:45:56 AM|Comments with issues!<br />Nice :)|
 <!-- /reviews -->
