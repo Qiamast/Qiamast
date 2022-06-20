@@ -18,9 +18,6 @@
 |[![Qiamast](https://avatars.githubusercontent.com/u/78082316?s=24&u=586842c6eab4222ca834c8beff18ebf31d597a16&v=4)<br />Qiamast](https://github.com/Qiamast)|6/6/2022, 6:48:41 PM|the last of last test :)|
 |[![BlackIQ](https://avatars.githubusercontent.com/u/55284339?s=24&u=19e73332cf90bf27cdc09acf49dfaa4b9babf6c9&v=4)<br />BlackIQ](https://github.com/BlackIQ)|6/6/2022, 8:45:56 AM|Comments with issues!<br />Nice :)|
 |[![Qiamast](https://avatars.githubusercontent.com/u/78082316?s=24&u=586842c6eab4222ca834c8beff18ebf31d597a16&v=4)<br />Qiamast](https://github.com/Qiamast)|6/6/2022, 8:32:32 AM|the last of us 🥇|
-|[![Qiamast](https://avatars.githubusercontent.com/u/78082316?s=24&u=586842c6eab4222ca834c8beff18ebf31d597a16&v=4)<br />Qiamast](https://github.com/Qiamast)|6/6/2022, 7:53:05 AM|a new test|
-|[![Qiamast](https://avatars.githubusercontent.com/u/78082316?s=24&u=586842c6eab4222ca834c8beff18ebf31d597a16&v=4)<br />Qiamast](https://github.com/Qiamast)|6/6/2022, 7:49:06 AM|another test message|
-|[![Qiamast](https://avatars.githubusercontent.com/u/78082316?s=24&u=586842c6eab4222ca834c8beff18ebf31d597a16&v=4)<br />Qiamast](https://github.com/Qiamast)|6/6/2022, 7:40:02 AM|just a test message📬|
 <!-- /reviews -->
 
 <!-- Badge -->
