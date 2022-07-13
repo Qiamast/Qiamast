@@ -28,7 +28,11 @@
 <br />
 <!-- Badge -->
 
-### 🚀 Quick Stats :octocat:
+<details>
+<summary>
+🚀 Quick Stats :octocat:
+</summary>
+
 <p align="center">
 <img width="450" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=Qiamast&show_icons=true&line_height=21&theme=react" alt="Qiamast's Github Stats" />
 <img width="340" height="155" align="center" 
@@ -42,3 +46,5 @@
 <div style="align-items:center;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 </div>
+</details>
+
