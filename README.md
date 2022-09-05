@@ -35,9 +35,7 @@
 
 <p align="center">
 <img width="450" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=Qiamast&show_icons=true&line_height=21&theme=react" alt="Qiamast's Github Stats" />
-<img width="340" height="155" align="center" 
-     src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Qiamast&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" />  
-    
+
   <br><p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=qiamast&theme=react-dark&bg_color=20232a&hide_border=true" width="60%"/></p>
 </p>
 
