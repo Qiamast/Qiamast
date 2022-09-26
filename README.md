@@ -29,14 +29,12 @@
 <!-- Badge -->
 
 ### Recent Activity
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/Qiamast/RadioGeek/issues/3) in [Qiamast/RadioGeek](https://github.com/Qiamast/RadioGeek)
-2. 🗣 Commented on [#2](https://github.com/Qiamast/Qiamast/issues/2) in [Qiamast/Qiamast](https://github.com/Qiamast/Qiamast)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
 <!-- Qiamast Contribution Graph -->
 <div align="center">
-  <h3>@Qiamast contribution Graph get eaten by snake 🐍</h3>
+  <h3>Qiamast contribution Graph get eaten by Python 🐍</h3>
   <img src="https://github.com/Qiamast/Qiamast/blob/output/github-contribution-grid-snake.svg" />
 </div>
 <!-- Qiamast Contribution Graph -->
