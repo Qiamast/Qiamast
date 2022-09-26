@@ -30,14 +30,14 @@
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Qiamast/linkqu.in](https://github.com/Qiamast/linkqu.in)
-2. 🔱 Forked [Qiamast/linkqu.in](https://github.com/Qiamast/linkqu.in) from [steven-tey/dub](https://github.com/steven-tey/dub)
-3. ⭐ Starred [steven-tey/dub](https://github.com/steven-tey/dub)
-4. 🔱 Forked [Qiamast/90DaysOfDevOps](https://github.com/Qiamast/90DaysOfDevOps) from [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
-5. ⭐ Starred [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
+1. ⭐ Starred [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+2. ⭐ Starred [Qiamast/linkqu.in](https://github.com/Qiamast/linkqu.in)
+3. 🔱 Forked [Qiamast/linkqu.in](https://github.com/Qiamast/linkqu.in) from [steven-tey/dub](https://github.com/steven-tey/dub)
+4. ⭐ Starred [steven-tey/dub](https://github.com/steven-tey/dub)
+5. 🔱 Forked [Qiamast/90DaysOfDevOps](https://github.com/Qiamast/90DaysOfDevOps) from [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 26th, 2022, 3:14:19 PM
+Last Updated: Monday, September 26th, 2022, 4:37:24 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- Qiamast Contribution Graph -->
