@@ -30,7 +30,7 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/Qiamast/Qiamast/issues/2) in [Qiamast/Qiamast](https://github.com/Qiamast/Qiamast)
+1. 🗣 Commented on [#3](https://github.com/Qiamast/RadioGeek/issues/3) in [Qiamast/RadioGeek](https://github.com/Qiamast/RadioGeek)
 2. 🗣 Commented on [#2](https://github.com/Qiamast/Qiamast/issues/2) in [Qiamast/Qiamast](https://github.com/Qiamast/Qiamast)
 <!--END_SECTION:activity-->
 
