@@ -28,6 +28,10 @@
 <br />
 <!-- Badge -->
 
+### Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <!-- Qiamast Contribution Graph -->
 <div align="center">
   <h3>@Qiamast contribution Graph get eaten by snake 🐍</h3>
