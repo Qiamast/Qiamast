@@ -30,14 +30,14 @@
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design)
-2. 🔱 Forked [Qiamast/linkedin-skill-assessments-quizzes](https://github.com/Qiamast/linkedin-skill-assessments-quizzes) from [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
-3. 🔱 Forked [Qiamast/first-contributions](https://github.com/Qiamast/first-contributions) from [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-4. 🔱 Forked [Qiamast/cs-video-courses](https://github.com/Qiamast/cs-video-courses) from [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses)
-5. 🔱 Forked [Qiamast/cypress](https://github.com/Qiamast/cypress) from [cypress-io/cypress](https://github.com/cypress-io/cypress)
+1. ⭐ Starred [Qiamast/DALLE2-pytorch](https://github.com/Qiamast/DALLE2-pytorch)
+2. 🔱 Forked [Qiamast/DALLE2-pytorch](https://github.com/Qiamast/DALLE2-pytorch) from [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch)
+3. ⭐ Starred [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch)
+4. ⭐ Starred [Dalleorema/make-a-video-pytorch](https://github.com/Dalleorema/make-a-video-pytorch)
+5. ⭐ Starred [lucidrains/make-a-video-pytorch](https://github.com/lucidrains/make-a-video-pytorch)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 29th, 2022, 12:27:56 PM
+Last Updated: Friday, September 30th, 2022, 1:48:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- Qiamast Contribution Graph -->
