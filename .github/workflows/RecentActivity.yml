@@ -2,7 +2,7 @@ name: Recent Activity
 
 on:
   schedule:
-    - cron: '0 */12 * * *' # Update every 12 hour (Runs at 00:00 and 12:00 UTC every day)
+    - cron: '0 */6 * * *' # Update every 6 hour (Runs at 00:00 and 12:00 UTC every day)
   workflow_dispatch:
 
 jobs:
