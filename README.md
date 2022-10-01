@@ -30,14 +30,14 @@
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Qiamast/DALLE2-pytorch](https://github.com/Qiamast/DALLE2-pytorch)
-2. 🔱 Forked [Qiamast/DALLE2-pytorch](https://github.com/Qiamast/DALLE2-pytorch) from [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch)
-3. ⭐ Starred [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch)
-4. ⭐ Starred [Dalleorema/make-a-video-pytorch](https://github.com/Dalleorema/make-a-video-pytorch)
-5. ⭐ Starred [lucidrains/make-a-video-pytorch](https://github.com/lucidrains/make-a-video-pytorch)
+1. ⭐ Starred [lkwq007/stablediffusion-infinity](https://github.com/lkwq007/stablediffusion-infinity)
+2. ⭐ Starred [Qiamast/discoart-midjourney](https://github.com/Qiamast/discoart-midjourney)
+3. ⭐ Starred [Dalleorema/Simple_Prompt_Generator](https://github.com/Dalleorema/Simple_Prompt_Generator)
+4. ⭐ Starred [WiNE-iNEFF/Simple_Prompt_Generator](https://github.com/WiNE-iNEFF/Simple_Prompt_Generator)
+5. ⭐ Starred [Dalleorema/awesome-generative-deep-art](https://github.com/Dalleorema/awesome-generative-deep-art)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 1st, 2022, 1:28:01 AM
+Last Updated: Saturday, October 1st, 2022, 12:30:46 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- Qiamast Contribution Graph -->
