@@ -30,14 +30,14 @@
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mateusz1913/react-native-avoid-softinput](https://github.com/mateusz1913/react-native-avoid-softinput)
-2. ⭐ Starred [lkwq007/stablediffusion-infinity](https://github.com/lkwq007/stablediffusion-infinity)
-3. ⭐ Starred [Qiamast/discoart-midjourney](https://github.com/Qiamast/discoart-midjourney)
-4. ⭐ Starred [Dalleorema/Simple_Prompt_Generator](https://github.com/Dalleorema/Simple_Prompt_Generator)
-5. ⭐ Starred [WiNE-iNEFF/Simple_Prompt_Generator](https://github.com/WiNE-iNEFF/Simple_Prompt_Generator)
+1. ⭐ Starred [Jigsaw-Code/outline-server](https://github.com/Jigsaw-Code/outline-server)
+2. ⭐ Starred [mateusz1913/react-native-avoid-softinput](https://github.com/mateusz1913/react-native-avoid-softinput)
+3. ⭐ Starred [lkwq007/stablediffusion-infinity](https://github.com/lkwq007/stablediffusion-infinity)
+4. ⭐ Starred [Qiamast/discoart-midjourney](https://github.com/Qiamast/discoart-midjourney)
+5. ⭐ Starred [Dalleorema/Simple_Prompt_Generator](https://github.com/Dalleorema/Simple_Prompt_Generator)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 3rd, 2022, 1:22:45 AM
+Last Updated: Monday, October 3rd, 2022, 6:29:00 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- Qiamast Contribution Graph -->
