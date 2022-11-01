@@ -1,5 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="30">,I'm Mahdi 
-
+I am a software engineer
+My primary programming languages are JavaScirpt and Python.<br/>
+I enjoy discovery and creating new thing<br/>
 
 
 ░██████╗░██╗░█████╗░███╗░░░███╗░█████╗░░██████╗████████╗
