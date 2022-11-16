@@ -32,14 +32,14 @@ I enjoy discovery and creating new thing<br/>
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Qiamast/YourBMI](https://github.com/Qiamast/YourBMI)
-2. 📔 Created new repository [Qiamast/YourBMI](https://github.com/Qiamast/YourBMI)
-3. ⭐ Starred [Qiamast/RefreshForNewColor](https://github.com/Qiamast/RefreshForNewColor)
-4. ⬆️ Pushed 1 commit(s) to [Qiamast/RefreshForNewColor](https://github.com/Qiamast/RefreshForNewColor)
-5. 📔 Created new repository [Qiamast/RefreshForNewColor](https://github.com/Qiamast/RefreshForNewColor)
+1. ⭐ Starred [open-journey/open-journey.github.io](https://github.com/open-journey/open-journey.github.io)
+2. ⭐ Starred [tfasoft/api](https://github.com/tfasoft/api)
+3. ⭐ Starred [Qiamast/YourBMI](https://github.com/Qiamast/YourBMI)
+4. 📔 Created new repository [Qiamast/YourBMI](https://github.com/Qiamast/YourBMI)
+5. ⭐ Starred [Qiamast/RefreshForNewColor](https://github.com/Qiamast/RefreshForNewColor)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 15th, 2022, 6:17:23 PM
+Last Updated: Wednesday, November 16th, 2022, 1:13:32 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- Qiamast Contribution Graph -->
