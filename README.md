@@ -32,14 +32,14 @@ I enjoy discovery and creating new thing<br/>
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Qiamast/LoremBamazzehFarsi](https://github.com/Qiamast/LoremBamazzehFarsi)
-2. ⬆️ Pushed 1 commit(s) to [Qiamast/LoremBamazzehFarsi](https://github.com/Qiamast/LoremBamazzehFarsi)
-3. 📔 Created new repository [Qiamast/LoremBamazzehFarsi](https://github.com/Qiamast/LoremBamazzehFarsi)
-4. ⬆️ Pushed 3 commit(s) to [Tasktive/Tasktive.github.io](https://github.com/Tasktive/Tasktive.github.io)
-5. ⭐ Starred [open-journey/open-journey.github.io](https://github.com/open-journey/open-journey.github.io)
+1. ⭐ Starred [moyicat/inkdrop-style-override](https://github.com/moyicat/inkdrop-style-override)
+2. ⭐ Starred [huggingface/diffusers](https://github.com/huggingface/diffusers)
+3. ⭐ Starred [novuhq/novu](https://github.com/novuhq/novu)
+4. ⭐ Starred [Qiamast/LoremBamazzehFarsi](https://github.com/Qiamast/LoremBamazzehFarsi)
+5. ⬆️ Pushed 1 commit(s) to [Qiamast/LoremBamazzehFarsi](https://github.com/Qiamast/LoremBamazzehFarsi)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 26th, 2022, 12:22:46 PM
+Last Updated: Saturday, November 26th, 2022, 6:14:40 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- Qiamast Contribution Graph -->
