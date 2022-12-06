@@ -32,14 +32,14 @@ I enjoy discovery and creating new thing<br/>
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [insecurityofthings/jackit](https://github.com/insecurityofthings/jackit)
-2. ⭐ Starred [moyicat/inkdrop-style-override](https://github.com/moyicat/inkdrop-style-override)
-3. ⭐ Starred [huggingface/diffusers](https://github.com/huggingface/diffusers)
-4. ⭐ Starred [novuhq/novu](https://github.com/novuhq/novu)
-5. ⭐ Starred [Qiamast/LoremBamazzehFarsi](https://github.com/Qiamast/LoremBamazzehFarsi)
+1. ⭐ Starred [jina-ai/jina](https://github.com/jina-ai/jina)
+2. ⭐ Starred [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch)
+3. ⭐ Starred [facebookincubator/buck2](https://github.com/facebookincubator/buck2)
+4. ⭐ Starred [shuding/nextra](https://github.com/shuding/nextra)
+5. ⭐ Starred [mxrch/GHunt](https://github.com/mxrch/GHunt)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 5th, 2022, 6:15:10 PM
+Last Updated: Tuesday, December 6th, 2022, 1:01:07 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- Qiamast Contribution Graph -->
