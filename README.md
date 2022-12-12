@@ -32,14 +32,14 @@ I enjoy discovery and creating new thing<br/>
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [subsurface/subsurface](https://github.com/subsurface/subsurface)
-2. ⭐ Starred [elementor/elementor](https://github.com/elementor/elementor)
-3. ⭐ Starred [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)
-4. ⭐ Starred [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT)
-5. ⭐ Starred [gragland/chatgpt-chrome-extension](https://github.com/gragland/chatgpt-chrome-extension)
+1. ⭐ Starred [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io)
+2. ⭐ Starred [hwchase17/langchain](https://github.com/hwchase17/langchain)
+3. ⭐ Starred [Dalleorema/stablediffusion](https://github.com/Dalleorema/stablediffusion)
+4. ⭐ Starred [deepmind/dramatron](https://github.com/deepmind/dramatron)
+5. ⭐ Starred [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 12th, 2022, 12:24:31 PM
+Last Updated: Monday, December 12th, 2022, 6:15:32 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- Qiamast Contribution Graph -->
