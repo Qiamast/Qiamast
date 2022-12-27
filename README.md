@@ -32,14 +32,14 @@ I enjoy discovery and creating new thing<br/>
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Qiamast/azcii](https://github.com/Qiamast/azcii)
-2. 📔 Created new repository [Qiamast/azcii](https://github.com/Qiamast/azcii)
-3. ⭐ Starred [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga)
-4. 🔱 Forked [Qiamast/CodeGeeX](https://github.com/Qiamast/CodeGeeX) from [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX)
-5. 🔱 Forked [Qiamast/pocketbase](https://github.com/Qiamast/pocketbase) from [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase)
+1. 🔱 Forked [Qiamast/frontend-learning-guide-](https://github.com/Qiamast/frontend-learning-guide-) from [sadanandpai/frontend-learning-kit](https://github.com/sadanandpai/frontend-learning-kit)
+2. ⭐ Starred [sadanandpai/frontend-learning-kit](https://github.com/sadanandpai/frontend-learning-kit)
+3. ⭐ Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+4. ⭐ Starred [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+5. ⭐ Starred [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 27th, 2022, 6:15:13 AM
+Last Updated: Tuesday, December 27th, 2022, 12:21:51 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- Qiamast Contribution Graph -->
