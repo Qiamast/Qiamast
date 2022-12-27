@@ -32,14 +32,14 @@ I enjoy discovery and creating new thing<br/>
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [Qiamast/frontend-learning-guide-](https://github.com/Qiamast/frontend-learning-guide-) from [sadanandpai/frontend-learning-kit](https://github.com/sadanandpai/frontend-learning-kit)
-2. ⭐ Starred [sadanandpai/frontend-learning-kit](https://github.com/sadanandpai/frontend-learning-kit)
-3. ⭐ Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
-4. ⭐ Starred [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
-5. ⭐ Starred [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)
+1. 🔱 Forked [Qiamast/appsmith](https://github.com/Qiamast/appsmith) from [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith)
+2. 🔱 Forked [Qiamast/frontend-learning-guide-](https://github.com/Qiamast/frontend-learning-guide-) from [sadanandpai/frontend-learning-kit](https://github.com/sadanandpai/frontend-learning-kit)
+3. ⭐ Starred [sadanandpai/frontend-learning-kit](https://github.com/sadanandpai/frontend-learning-kit)
+4. ⭐ Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+5. ⭐ Starred [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 27th, 2022, 12:21:51 PM
+Last Updated: Tuesday, December 27th, 2022, 6:14:16 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- Qiamast Contribution Graph -->
