@@ -30,14 +30,14 @@ Always eager to learn new technologies and techniques and improve my skills. I a
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [MortezaBashsiz/Sudoer_VPN_bot](https://github.com/MortezaBashsiz/Sudoer_VPN_bot)
-2. 🔱 Forked [Qiamast/30-Days-Of-Python](https://github.com/Qiamast/30-Days-Of-Python) from [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
-3. 🔱 Forked [Qiamast/30-Days-Of-JavaScript](https://github.com/Qiamast/30-Days-Of-JavaScript) from [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
-4. ⭐ Starred [MohammedHamzaMalik/100-Days-of-JavaScript-Code](https://github.com/MohammedHamzaMalik/100-Days-of-JavaScript-Code)
-5. ⭐ Starred [youzan/vant](https://github.com/youzan/vant)
+1. ⭐ Starred [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)
+2. ⭐ Starred [nushell/nushell](https://github.com/nushell/nushell)
+3. ⭐ Starred [qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced)
+4. ⭐ Starred [psf/black](https://github.com/psf/black)
+5. ⭐ Starred [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 2nd, 2023, 12:24:39 PM
+Last Updated: Thursday, February 2nd, 2023, 6:15:01 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- Qiamast Contribution Graph -->
