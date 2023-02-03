@@ -30,14 +30,14 @@ Always eager to learn new technologies and techniques and improve my skills. I a
 
 ### Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)
-2. ⭐ Starred [nushell/nushell](https://github.com/nushell/nushell)
-3. ⭐ Starred [qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced)
-4. ⭐ Starred [psf/black](https://github.com/psf/black)
-5. ⭐ Starred [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
+1. ⭐ Starred [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr)
+2. ⭐ Starred [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode)
+3. ⭐ Starred [nushell/nushell](https://github.com/nushell/nushell)
+4. ⭐ Starred [qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced)
+5. ⭐ Starred [psf/black](https://github.com/psf/black)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 3rd, 2023, 6:15:42 AM
+Last Updated: Friday, February 3rd, 2023, 12:23:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!-- Qiamast Contribution Graph -->
