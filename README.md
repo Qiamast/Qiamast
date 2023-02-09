@@ -1,5 +1,9 @@
 ### Hi there <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="30">,I'm Mahdi 
-Always eager to learn new technologies and techniques and improve my skills. I am looking forward to collaborating and contributing to open-source projects.
+
+```
+I am Always eager to learn new technologies and techniques and improve my skills.
+and looking forward to collaborating and contributing to open-source projects.
+```
 
 
 ░██████╗░██╗░█████╗░███╗░░░███╗░█████╗░░██████╗████████╗
@@ -54,8 +58,7 @@ Last Updated: Thursday, February 9th, 2023, 12:26:04 PM
 
 <p align="center">
 <img width="450" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=Qiamast&show_icons=true&line_height=21&theme=react" alt="Qiamast's Github Stats" />
-
-  <br><p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=qiamast&theme=react-dark&bg_color=20232a&hide_border=true" width="60%"/></p>
+  
 </p>
 
 
