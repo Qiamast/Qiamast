@@ -18,7 +18,6 @@ and looking forward to collaborating and contributing to open-source projects.
 <!-- reviews -->
 | Account | Timestamp | Message |
 |---|---|---|
-|[![samarayaneh-dev-hazrati](https://avatars.githubusercontent.com/u/149927705?s=24&u=ddcc7ea959522deeca86fe9a9aaa9bb226d9bba1&v=4)<br />samarayaneh-dev-hazrati](https://github.com/samarayaneh-dev-hazrati)|10/21/2024, 11:47:53 AM|salam|
 |[![Mahdi-Hazrati](https://avatars.githubusercontent.com/u/127740921?s=24&u=dadca6976c058202f116d24c83f659015c820535&v=4)<br />Mahdi-Hazrati](https://github.com/Mahdi-Hazrati)|4/30/2023, 10:24:10 AM|:)|
 |[![Qiamast](https://avatars.githubusercontent.com/u/78082316?s=24&u=7e2bfab39d021698336e9f9f57c7e23a0d44e14a&v=4)<br />Qiamast](https://github.com/Qiamast)|6/6/2022, 6:48:41 PM|the last of last test :)|
 |[![BlackIQ](https://avatars.githubusercontent.com/u/55284339?s=24&u=7896a81488ae2211dac5af14deca6744b249f6b4&v=4)<br />BlackIQ](https://github.com/BlackIQ)|6/6/2022, 8:45:56 AM|Comments with issues!<br />Nice :)|
